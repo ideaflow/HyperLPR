@@ -6,7 +6,7 @@
 
 ### 一键安装
 
-`pip install hyperlpr`
+`python -m pip install hyperlpr`
 
 ###### 支持python3,支持Windows  Mac Linux 树莓派等。
 
@@ -170,7 +170,7 @@ int main(){
 - [x] 教练车牌
 - [ ] 武警车牌
 - [ ] 民航车牌
-- [ ] 双层黄牌
+- [x] 双层黄牌
 - [ ] 双层武警
 - [ ] 双层军牌
 - [ ] 双层农用车牌
@@ -201,6 +201,7 @@ int main(){
 ##### 作者昵称不分前后
 
 - Jack Yu 作者(jack-yu-business@foxmail.com / https://github.com/szad670401)
+- AlanNewImage v2版win工程、python双层完善 (https://github.com/AlanNewImage)
 - lsy17096535 整理(https://github.com/lsy17096535)
 - xiaojun123456 IOS贡献(https://github.com/xiaojun123456)
 - sundyCoder Android第三方贡献(https://github.com/sundyCoder)
